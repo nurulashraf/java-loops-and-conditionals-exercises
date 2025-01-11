@@ -1,4 +1,4 @@
-// This code compares two integers and prints the greatest one.
+// This code compares two integers and prints the greatest one using 'if.. else'.
 
 package exercise2;
 
