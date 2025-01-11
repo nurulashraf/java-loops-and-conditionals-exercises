@@ -3,7 +3,6 @@
     1. Receives user input numbers thru looping.
     2. Calculate the total and average.
     3. Output on the console. 
-    
 */
 
 package exercise5;
