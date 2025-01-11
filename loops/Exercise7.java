@@ -3,7 +3,6 @@
   followed by the inner loop index (1 to 3) for each iteration of the outer loop.
 */
 
-
 package exercise7;
 
 public class Exercise7 {
