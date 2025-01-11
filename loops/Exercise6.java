@@ -3,9 +3,9 @@
   followed by the inner loop index (1 to 3) for each iteration of the outer loop.
 */
 
-package nestedloopsexercise1;
+package exercise6;
 
-public class NestedLoopsExercise1 {
+public class Exercise6 {
 
     public static void main(String[] args) {
         
