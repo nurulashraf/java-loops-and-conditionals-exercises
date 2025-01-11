@@ -1,8 +1,8 @@
 /* 
-   This code simulates an ATM where the user enters a PIN, 
-   and if it's correct, they can deposit an amount into 
-   their account and see the updated balance.
-   Uses 'if.. else' statement.
+  This code simulates an ATM where the user enters a PIN, 
+  and if it's correct, they can deposit an amount into 
+  their account and see the updated balance.
+  Uses 'if.. else' statement.
 */
 
 package exercise3;
