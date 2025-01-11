@@ -1,8 +1,9 @@
 /* 
-  This code generates two random integers, 
+  This code generate two random integers, 
   prompts the user to subtract them, 
   and then checks if the user's answer is correct, 
   displaying the result accordingly.
+  Uses 'if.. else' statement.
 */
 
 package exercise1;
