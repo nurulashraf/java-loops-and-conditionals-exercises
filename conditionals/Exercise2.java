@@ -1,8 +1,8 @@
 // This code compares two integers and prints the greatest one.
 
-package greatestnumber;
+package exercise2;
 
-public class GreatestNumber {
+public class Exercise2 {
     public static void main(String[] args) {
         int num1 = 1, num2 = 2;
         
