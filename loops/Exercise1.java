@@ -1,4 +1,4 @@
-// This code prints 5 numbers vertically.
+// This code prints 5 numbers vertically using 'for' loop.
 
 package exercise1;
 
